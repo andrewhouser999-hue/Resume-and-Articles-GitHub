@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "We Are Not Losing Our Methodology — We Are Losing Our NerveYour Full Article Title Here"
+title: "We Are Not Losing Our Methodology — We Are Losing Our Nerve"
 date: 2026-04-05
 ---
 
