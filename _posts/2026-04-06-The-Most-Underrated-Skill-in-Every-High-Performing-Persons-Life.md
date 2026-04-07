@@ -14,7 +14,7 @@ The skill I am talking about is not the ability to speak. It is the ability to a
 
 **What the Numbers Showed**
 
-In 2025, I maintained a 12.12% average of calls earning perfect scores across all client satisfaction dimensions, against a company average of 4.37%, with a quarterly peak of 14%. Management recognized it as the highest relational and emotional intelligence of any hire in the organization.
+In 2025, I maintained a 12.12% average of calls earning perfect scores across all client satisfaction dimensions, against a company average of 4.37%, with a quarterly peak of 14%. My manager recognized it as the highest relational and emotional intelligence of any hire in his tenure.
 
 I did not arrive at those numbers through a better script. I arrived through a different relationship with the conversation itself.
 
