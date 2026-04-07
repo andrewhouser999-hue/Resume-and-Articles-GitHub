@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Emotional-Unavailability-and-Relational-Distance" 
+title: "Emotional Unavailability and Relational Distance" 
 date: 2026-04-05
 ---
 
