@@ -2,6 +2,7 @@
 layout: post
 title: "We Are Not Losing Our Methodology — We Are Losing Our Nerve"
 date: 2026-04-05
+author: Andrew J Houser
 ---
 
 Leadership called it "World Class."

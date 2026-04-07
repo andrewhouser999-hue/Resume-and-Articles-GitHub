@@ -2,6 +2,7 @@
 layout: post
 title: "Emotional Unavailability and Relational Distance" 
 date: 2026-04-05
+author: Andrew J Houser
 ---
 
 ### A Case for Relationship Intelligence in Professional and Personal Life

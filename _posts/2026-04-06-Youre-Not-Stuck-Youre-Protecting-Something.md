@@ -2,6 +2,7 @@
 layout: post
 title: "You're Not Stuck — You're Protecting Something. Here's How to Find Out What."
 date: 2026-04-06
+author: Andrew J Houser
 ---
 
 When someone cannot seem to move forward, the standard diagnosis is a skill problem.

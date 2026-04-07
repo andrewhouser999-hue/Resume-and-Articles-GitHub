@@ -2,6 +2,7 @@
 layout: post
 title: "The Relational Gap Nobody Else Is Looking For"
 date: 2026-04-07
+author: Andrew J Houser
 ---
 
 There is a gap in almost every professional environment I have ever walked into. It is not a skills gap or a strategy gap or a knowledge gap. It is a relational one. And most of the people in the room are not looking for it, which means most of them are also not filling it.

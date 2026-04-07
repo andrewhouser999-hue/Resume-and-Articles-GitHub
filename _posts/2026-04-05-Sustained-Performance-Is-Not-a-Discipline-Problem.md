@@ -2,6 +2,7 @@
 layout: post
 title: "Sustained Performance Isn't a Discipline Problem"
 date: 2026-04-05
+author: Andrew J Houser
 ---
 
 Sustained performance isn't a discipline problem.

@@ -2,6 +2,7 @@
 layout: post
 title: "The Real Reason High Performers Keep Going When Everyone Else Stops"
 date: 2026-04-06
+author: Andrew J Houser
 ---
 
 Everyone has a theory about what separates the people who make it from the people who don't.

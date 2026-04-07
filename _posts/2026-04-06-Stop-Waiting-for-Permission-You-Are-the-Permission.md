@@ -2,6 +2,7 @@
 layout: post
 title: "Stop Waiting for Permission — You Are the Permission"
 date: 2026-04-06
+author: Andrew J Houser
 ---
 
 There is a version of your life you have been circling for months, maybe years. You know what it looks like. You have thought about it more times than you can count. And yet you have not moved.
