@@ -49,6 +49,10 @@ layout: default
     margin-top: 2rem;
   }
 
+  h2.post-list-heading.all-heading {
+    margin-top: 3rem;
+  }
+
   .featured-list .post-meta {
     font-size: 0.8rem;
   }
@@ -83,7 +87,7 @@ layout: default
   {%- endif -%}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">All Articles</h2>
+    <h2 class="post-list-heading all-heading">All Articles</h2>
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in site.posts -%}
