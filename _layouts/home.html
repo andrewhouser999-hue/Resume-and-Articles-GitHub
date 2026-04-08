@@ -42,8 +42,11 @@ layout: default
   .featured-list li {
     padding: 14px 16px;
     margin-bottom: 10px;
-    border-left: 3px solid #333;
-    background-color: #f9f9f9;
+    background-color: #e8e8e8;
+  }
+
+  h2.post-list-heading.featured-heading {
+    margin-top: 2rem;
   }
 
   .featured-list .post-meta {
@@ -60,7 +63,7 @@ layout: default
 
   {%- assign featured_posts = site.posts | where: "featured", true -%}
   {%- if featured_posts.size > 0 -%}
-    <h2 class="post-list-heading">Featured Articles</h2>
+    <h2 class="post-list-heading featured-heading">Featured Articles</h2>
     <ul class="featured-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in featured_posts -%}
