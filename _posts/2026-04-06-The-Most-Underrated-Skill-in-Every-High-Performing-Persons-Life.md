@@ -4,6 +4,7 @@ title: "The Most Underrated Skill in Every High-Performing Person's Life"
 date: 2026-04-06
 author: Andrew J Houser
 excerpt: "Genuine listening — not fluency or articulateness, but reading the person beneath the words — is the highest-leverage and most neglected professional skill, and it is built through deliberate practice, not personality."
+featured: true
 ---
 
 Most people think they are good communicators.

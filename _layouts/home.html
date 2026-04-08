@@ -32,13 +32,55 @@ layout: default
     visibility: visible;
     opacity: 1;
   }
+
+  .featured-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 2rem 0;
+  }
+
+  .featured-list li {
+    padding: 14px 16px;
+    margin-bottom: 10px;
+    border-left: 3px solid #333;
+    background-color: #f9f9f9;
+  }
+
+  .featured-list .post-meta {
+    font-size: 0.8rem;
+  }
+
+  .featured-list h3 {
+    margin: 4px 0 0 0;
+  }
 </style>
 
 <div class="home">
   {{ content }}
 
+  {%- assign featured_posts = site.posts | where: "featured", true -%}
+  {%- if featured_posts.size > 0 -%}
+    <h2 class="post-list-heading">Featured Articles</h2>
+    <ul class="featured-list">
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+      {%- for post in featured_posts -%}
+      <li>
+        <span class="post-meta">{{ post.date | date: date_format }}</span>
+        <h3>
+          <span class="post-title-wrapper">
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            {%- if post.excerpt -%}
+              <span class="tooltip-text">{{ post.excerpt | strip_html | truncate: 200 }}</span>
+            {%- endif -%}
+          </span>
+        </h3>
+      </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">Articles</h2>
+    <h2 class="post-list-heading">All Articles</h2>
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in site.posts -%}

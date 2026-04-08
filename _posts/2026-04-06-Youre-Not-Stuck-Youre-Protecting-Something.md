@@ -4,6 +4,7 @@ title: "You're Not Stuck — You're Protecting Something. Here's How to Find Out
 date: 2026-04-06
 author: Andrew J Houser
 excerpt: "Persistent stagnation is almost never a capability problem — it is a protection strategy built around a specific fear, and the movement begins the moment you identify what you've been guarding."
+featured: true
 ---
 
 When someone cannot seem to move forward, the standard diagnosis is a skill problem.
