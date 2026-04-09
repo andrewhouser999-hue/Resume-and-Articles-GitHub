@@ -29,6 +29,8 @@ The approach wrapped in leadership. I was not just presenting information. I was
 
 The deck remained in the curriculum for my time at the company. The 30% increase in calls scoring at 100% client satisfaction, compared to all prior classes, was not produced by better content alone. It was produced by recruits who had decided something about themselves before they ever picked up the phone.
 
+But the number that stayed with me wasn't the 30%. It was the ones who didn't move. Same room. Same invitation. Same standard being held at every level. They understood it. Some of them wanted it. But something in them couldn't take it on, and no amount of encouragement was going to close that distance. They were protecting something. And until that something was identified, the identity couldn't update.
+
 **What Protection Actually Looks Like**
 
 When a person is stuck, there is almost always something being protected. It is rarely obvious and almost never what they would name if you asked them directly.
