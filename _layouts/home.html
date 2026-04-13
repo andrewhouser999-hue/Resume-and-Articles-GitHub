@@ -69,10 +69,8 @@ layout: default
   {%- if featured_posts.size > 0 -%}
     <h2 class="post-list-heading featured-heading">Featured Articles</h2>
     <ul class="featured-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in featured_posts -%}
       <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <span class="post-title-wrapper">
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
@@ -89,10 +87,8 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading all-heading">The Full Body of Work</h2>
     <ul class="post-list">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in site.posts -%}
       <li>
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
         <h3>
           <span class="post-title-wrapper">
             <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
