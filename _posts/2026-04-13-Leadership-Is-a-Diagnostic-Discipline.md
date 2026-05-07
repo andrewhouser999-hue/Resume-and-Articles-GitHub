@@ -19,7 +19,7 @@ That kind of clarity is what separates a good manager from a great director, and
 
 Numbers tell you what happened. They don't tell you why.
 
-At Charles Schwab, client satisfaction was measured by a standard aggregate score. My numbers were running three times the company average — and I still didn't trust the metric. Not to discount it, but because an aggregate score tells you where the team lands on average. It doesn't tell you what consistent excellence looks like or how to build toward it.
+At Charles Schwab, client satisfaction was measured by a standard average score. My numbers were running three times the company average — and I still didn't trust the metric. Not to discount it, but because an average score tells you where the team lands overall. It doesn't tell you what consistent excellence looks like or how to build toward it.
 
 So I tracked something more precise: the percentage of total calls each quarter that earned a perfect 100% across every client satisfaction criterion. The company average was 4.37%. My best quarter hit 14%. My 2025 average was 12.12%.
 
